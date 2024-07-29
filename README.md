@@ -1,5 +1,5 @@
 - 👋 Hi, I’m MUKUNDAN D.I am an aspiring SWE, currently pursuing my BE.CSE at Sethu Institute of Technology. 
-- 👀 I’m interested in Artificial intelligence, DSA and Algorithm, Mern stack development
+- 👀 I’m interested in Artificial intelligence, DSA, Mern stack development
 - 🌱 I’m currently learning MERN STACK
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
