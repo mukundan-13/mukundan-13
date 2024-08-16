@@ -1,6 +1,11 @@
 - 👋 Hi there, I’m MUKUNDAN D.I am an aspiring SWE, currently pursuing my BE.CSE at Sethu Institute of Technology.
 
 <img align="right" width="370" height="290" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
+
+
+
+
+
 - 👀 I’m interested in Mobile App Development, DSA, Mern stack development
 - 🌱 I’m currently learning MERN STACK
 - 💞️ I’m looking to collaborate on real time and MERN related projects
