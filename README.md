@@ -24,6 +24,10 @@
 
 <img width="48" height="48" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/>  <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>
 
+## My Socials
+
+<img width="48" height="48" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">(https://www.mukundanproff@gmail.com)
+
 <!---
 mukundan-13/mukundan-13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
