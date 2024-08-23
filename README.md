@@ -25,6 +25,13 @@
 <img width="48" height="48" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/>  <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>
 
 
+## Get in touch with me
+
+<a href="https://www.linkedin.com/in/your-profile"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="LinkedIn" height="30" width="30"></a>
+<a href="https://www.instagram.com/your-profile"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/instagram.svg" alt="Instagram" height="30" width="30"></a>
+<a href="https://twitter.com/your-profile"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg" alt="Twitter" height="30" width="30"></a>
+<a href="mailto:your-email@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gmail.svg" alt="Gmail" height="30" width="30"></a>
+
 
 <!---
 mukundan-13/mukundan-13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
