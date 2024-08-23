@@ -29,21 +29,20 @@
 
 
 <a href="https://www.linkedin.com/in/mukundan-d" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-
-  
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> 
 </a>
+
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/__mukundan__" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-
-  
 </a>
+&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/Mukundan_13" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-
-  
 </a>
-<a href="mailto:www.mukundanproff@gmail.com" target="_blank">
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:mukundanproff@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
