@@ -51,6 +51,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukundan-13&layout=compact)](https://github.com/mukundan-13/github-readme-stats)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=mukundan-13&theme=default&hide_border=false)<br/>
 
 [![](https://visitcount.itsvg.in/api?id=mukundan-13&icon=0&color=0)](https://visitcount.itsvg.in)
 
@@ -61,8 +62,11 @@
 <h2 align="left">Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mukundan-13&theme=github-compact"/>
 
-
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mukundan-13&theme=github" height="180em" />
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!---
 mukundan-13/mukundan-13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
