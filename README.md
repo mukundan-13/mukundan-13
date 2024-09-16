@@ -1,4 +1,4 @@
-# Hi I’m MUKUNDAN D 👋
+# <h1 align="center"> Hi there, <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px">  I'm MUKUNDAN D</h1>
 - I am an aspiring SWE, currently pursuing my BE.CSE at Sethu Institute of Technology.
 
 <img align="right" width="370" height="290" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
