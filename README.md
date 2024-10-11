@@ -69,6 +69,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukundan-13" alt="mukundan-13" /></a> </p>
 
 
+[![An image of @mukundan13's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mukundan13)](https://holopin.io/@mukundan13)
+
+
 <h2 align="left">Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mukundan-13&theme=github-compact"/>
 
