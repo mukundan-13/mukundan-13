@@ -80,6 +80,24 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mukundan-13&theme=github" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+# <h1 align="center"> Programming profile</h1>
+
+## Leetcode
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/Mukundan_13?ext=contest)
+
+## Codechef
+
+![CodeChef Stats](https://codechef-readme-stats.onrender.com/mukundan_13?v=1)
+
+
+## Codeforces
+
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Mukundan_13)](https://codeforces.com/profile/Mukundan_13)        
+![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=Mukundan_13)
+
+
 <!---
 mukundan-13/mukundan-13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
