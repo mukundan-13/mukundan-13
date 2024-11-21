@@ -81,21 +81,7 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# <h1 align="center"> Programming profile</h1>
 
-## Leetcode
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/Mukundan_13?ext=contest)
-
-## Codechef
-
-![CodeChef Stats](https://codechef-readme-stats.onrender.com/mukundan_13?v=1)
-
-
-## Codeforces
-
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Mukundan_13)](https://codeforces.com/profile/Mukundan_13)        
-![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=Mukundan_13)
 
 
 <!---
