@@ -5,7 +5,7 @@
 # <h1 align="center"> Hi there, <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px">  I'm MUKUNDAN D</h1>
 
 <p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Aspiring+Software+Engineer;MERN+Full+Stack+Web+Developer;Competitive+Programmer&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Aspiring+Software+Engineer;Java+Full+Stack+Web+Developer;Competitive+Programmer&center=true&width=500&height=50"></a>
 </p>
 
 - I am an aspiring SWE, currently pursuing my BE.CSE at Sethu Institute of Technology.
@@ -16,12 +16,12 @@
 
 
 
-- 👀 I’m interested in Mobile App Development, DSA, Mern stack development
-- 🌱 I’m currently learning MERN STACK
-- 💞️ I’m looking to collaborate on real time and MERN related projects
+- 👀 I’m interested in Java stack development
+- 🌱 I’m currently learning Java full STACK
+- 💞️ I’m looking to collaborate on real time and Java related projects
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/mukundan-d/)
 - 😄 Pronouns: Programmer
-- ⚡ Fun fact: DSA Lover
+- ⚡ Fun fact: nil 
 - Additional knowledge:Data analytics
 
 ## Technical skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="35"> 
