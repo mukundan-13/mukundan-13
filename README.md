@@ -16,7 +16,7 @@
 
 
 
-- 👀 I’m interested in Java stack development
+- 👀 I’m interested in Blockchain
 - 🌱 I’m currently learning Java full STACK
 - 💞️ I’m looking to collaborate on real time and Java related projects
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/mukundan-d/)
