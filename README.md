@@ -8,7 +8,7 @@
   <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Aspiring+Software+Engineer;Java+Full+Stack+Web+Developer;Competitive+Programmer&center=true&width=500&height=50"></a>
 </p>
 
-- I am an aspiring SWE, currently pursuing my BE.CSE at Sethu Institute of Technology.
+- I am an aspiring Software Engineer
 
 <img align="right" width="370" height="290" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
